@@ -1,7 +1,7 @@
 const config = {
-	ownerID: ['YourAccountID'],
-	token: 'YourBotToken',
-	botClient: 'YourBotClientSecret',
+	ownerID: ['436918120184021012'],
+	token: 'ODIwNzA3NTA0MjQxNTA4NDAz.YE5FbQ.1naucKTUYyq5TDSAsjgmGvWxwsY',
+	botClient: 'ODIwNzA3NTA0MjQxNTA4NDAz.YE5FbQ.1naucKTUYyq5TDSAsjgmGvWxwsY',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
@@ -59,7 +59,7 @@ const config = {
 	// This is just so some commands can be ran in DM channels
 	defaultSettings: {
 		// default settings
-		prefix: 'e!',
+		prefix: '!',
 		Language: 'en-US',
 	},
 	// Custom emojis, just for cosmetic (change these if you wish)
